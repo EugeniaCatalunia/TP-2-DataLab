@@ -7,6 +7,6 @@ document.getElementById('menu').addEventListener('click', function () {
 lightbox.option({
     'wrapAround': true,
     'fadeDuration': 2000,
-    'maxWidth': 50,
-    'maxHeight': 50
+    'maxWidth': 500,
+    'maxHeight': 500
 })
